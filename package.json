@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-pwned-passwords",
+  "version": "1.0.0",
+  "description": "Checks passwords against Troy Hunt's Have I Been Pwned Pwned Passwords API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenLubar/nodebb-plugin-pwned-passwords.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "pwned",
+    "passwords"
+  ],
+  "author": "Ben Lubar <ben.lubar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenLubar/nodebb-plugin-pwned-passwords/issues"
+  },
+  "homepage": "https://github.com/BenLubar/nodebb-plugin-pwned-passwords#readme",
+  "nbbpm": {
+    "compatibility": "^1.10.0"
+  }
+}

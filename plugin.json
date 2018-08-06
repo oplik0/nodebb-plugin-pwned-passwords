@@ -1,0 +1,8 @@
+{
+  "id": "nodebb-plugin-pwned-passwords",
+  "name": "Pwned Passwords",
+  "description": "Checks passwords against Troy Hunt's Have I Been Pwned Pwned Passwords API",
+  "url": "https://github.com/BenLubar/nodebb-plugin-pwned-passwords",
+  "library": "library.js",
+  "languages": "language"
+}

@@ -20,5 +20,8 @@
   "homepage": "https://github.com/BenLubar/nodebb-plugin-pwned-passwords#readme",
   "nbbpm": {
     "compatibility": "^1.10.0"
+  },
+  "dependencies": {
+    "lru-cache": "^4.1.3"
   }
 }

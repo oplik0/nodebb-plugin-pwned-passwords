@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-pwned-passwords",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Checks passwords against Troy Hunt's Have I Been Pwned Pwned Passwords API",
   "repository": {
     "type": "git",

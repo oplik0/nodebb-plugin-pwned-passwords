@@ -3,7 +3,7 @@
 const crypto = require('crypto');
 const https = require('https');
 const LRU = require('lru-cache');
-const User = module.parent.require('./user');
+const User = require.main.require('./src/user');
 
 const cache = LRU(100);
 

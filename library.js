@@ -5,7 +5,7 @@ const https = require('https');
 const LRU = require('lru-cache');
 const User = require.main.require('./src/user');
 
-const cache = LRU(100);
+const cache = new LRU(100);
 
 const originalIsPasswordValid = User.isPasswordValid;
 

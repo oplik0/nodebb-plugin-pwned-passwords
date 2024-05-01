@@ -22,6 +22,6 @@
     "compatibility": "^1.10.0"
   },
   "dependencies": {
-    "lru-cache": "5.1.1"
+    "lru-cache": "10.2.2"
   }
 }
